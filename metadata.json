@@ -1,0 +1,6 @@
+{
+  "name": "ALiRaZa Studio",
+  "description": "ALiRaZa AI Studio V200 featuring the Shahgee voice and intelligence companion across specialized AI workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

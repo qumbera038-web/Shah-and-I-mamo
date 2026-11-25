@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ALiRaZa Studio</string>
+    <string name="studio_title">ALiRaZa AI STUDIO</string>
+    <string name="studio_subtitle">V200  •  SHAHGEE INTELLIGENCE</string>
+    <string name="status_badge_online">● ONLINE UI</string>
+    <string name="shahgee_name">SHAHGEE</string>
+    <string name="shahgee_tagline">Your AI companion • Voice interface</string>
+    <string name="action_speak">Speak</string>
+    <string name="action_voice_test">Voice test</string>
+    <string name="action_stop_voice">Stop voice</string>
+    <string name="action_send">Send</string>
+    <string name="action_save_memory">Save to Memory</string>
+    <string name="action_read_aloud">Read aloud</string>
+    <string name="prompt_hint">Ask Shahgee anything or pick a workspace…</string>
+    <string name="sample_ai_notice_title">GEMINI_API_KEY Not Configured</string>
+    <string name="sample_ai_notice_body">Showing local sample output. Set GEMINI_API_KEY in the AI Studio Secrets panel to enable live Gemini responses.</string>
+    <string name="tribute_footer">Built in memory of Ali Raza • V200 foundation</string>
+    <string name="workspaces_heading">WORKSPACES</string>
+    <string name="speech_greeting">Hello. I am Shahgee, your assistant in ALiRaZa AI Studio V200.</string>
+    <string name="speech_unavailable">Android speech recognition is unavailable on this device. You can type your request directly below.</string>
+    <string name="mic_permission_denied">Microphone permission was denied. Type your request below or allow microphone access in system settings.</string>
+</resources>
